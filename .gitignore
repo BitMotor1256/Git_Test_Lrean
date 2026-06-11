@@ -1,0 +1,16 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.idea/
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.csproj.user
+.DS_Store
+Thumbs.db
+Desktop.ini
